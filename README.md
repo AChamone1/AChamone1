@@ -1,5 +1,5 @@
 ### Arthur Chamone
-[[![Gmail Badge](https://img.shields.io/badge/-chamonearthur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chamonearthur@gmail.com)](mailto:chamonearthur@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chamonearthur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chamonearthur@gmail.com)](mailto:chamonearthur@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
